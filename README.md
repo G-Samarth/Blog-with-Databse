@@ -1,3 +1,3 @@
 # Blog-with-Databse
 
-Site link: https://dashboard.heroku.com/apps/sleepy-temple-11724
+Site link: https://sleepy-temple-11724.herokuapp.com/
